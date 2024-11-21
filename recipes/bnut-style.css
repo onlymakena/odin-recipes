@@ -1,4 +1,8 @@
-h1 {
+body {
+    font-family: "Brush Script MT", "Times New Roman", serif;
+}
+h1, h3 {
     color: #a25a2a;
     background-color: #ffff00;
+    text-align: center;
 }
