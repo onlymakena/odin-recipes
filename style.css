@@ -1,12 +1,32 @@
 body {
     font-family: "Brush Script MT", "Times New Roman", serif;
+    background: fixed;
+}
+h1 {
+    text-align: center;
+    border: 2px solid#a3e4a6;
+    background: #7ffa89;
+    width: 240px;
+}
+.bnut,
+.chili,
+.shwarma {
+    margin: 8px;
+    padding: 8px;
+    width: 120px;
 }
 .bnut {
-    background-color: #ffff00;
+    background-color: #ffffb4;
+  
 }
 .shwarma {
-    background-color: #008000
+    background-color: #9be99b;
+   
 }
 .chili {
-    background-color: #ff0000;
+    background-color: #ffc8c8;
+  
+}
+.recipe {
+    text-align: left;
 }
